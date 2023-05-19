@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 </table>
 
 > Provided by [`GitHub Readme Stats`]
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/997571433280577656)](https://discord.com/users/997571433280577656)
 
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
