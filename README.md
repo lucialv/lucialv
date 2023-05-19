@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 [![Discord Presence](https://lanyard.cnrad.dev/api/997571433280577656)](https://discord.com/users/997571433280577656)
 
 > Provided by [`Lanyard`]
+
 [`Lanyard`]: https://github.com/Phineas/lanyard
