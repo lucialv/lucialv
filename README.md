@@ -1,21 +1,13 @@
-### Hi there 👋
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with anything
-- 💫 She/Her
-<!--
-**lucialv/lucialv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile! 💕🌸
+- My name is Lucía.
+- Im 15 years old
+- Pronouns: She/Her
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+## About me! 🌸
+Developer Junior, with a lot of desire to learn more every day and with the desire to get to do something great in the future as a Web Developer.
+Just finished high school and currently studying the Microcomputer Systems and Networks (MSN) intermediate VET program and I'm enjoyning my stay.
 
-- 👯 I’m looking to collaborate on ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
 #### Some stats!
 
 <table>
