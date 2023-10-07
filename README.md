@@ -1,12 +1,16 @@
 # Welcome to my profile! 💕🌸
+
 - My name is Lucía.
 - Im 15 years old
 - Pronouns: She/Her
-<img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
+  <img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
 
 ## About me! 🌸
+
 Developer Junior, with a lot of desire to learn more every day and with the desire to get to do something great in the future as a Web Developer.
 Just finished high school and currently studying the Microcomputer Systems and Networks (MSN) intermediate VET program and I'm enjoyning my stay.
+
+![image](mdimg.png)
 
 #### Some stats!
 
