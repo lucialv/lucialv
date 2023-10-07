@@ -2,7 +2,7 @@
 - My name is Lucía.
 - Im 15 years old
 - Pronouns: She/Her
-
+<img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
 
 ## About me! 🌸
 Developer Junior, with a lot of desire to learn more every day and with the desire to get to do something great in the future as a Web Developer.
