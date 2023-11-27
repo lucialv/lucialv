@@ -1,7 +1,7 @@
 # Welcome to my profile! 💕🌸
 
 - My name is Lucía.
-- Im 15 years old
+- Im 16 years old
 - Pronouns: She/Her
 
 <img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
