@@ -8,8 +8,8 @@
 
 ## About me! 🌸
 
-Developer Junior, with a lot of desire to learn more every day and with the desire to get to do something great in the future as a Web Developer.
-Just finished high school and currently studying the Microcomputer Systems and Networks (MSN) intermediate VET program and I'm enjoyning my stay.
+Junior Developer, eager to learn more every day and determined to achieve something great in the future as a Web Developer.
+I recently finished the first year of the Intermediate VET MSN and I am currently in the second year enjoying the experience of learning and growing.
 
 ![image](mdimg.png)
 
