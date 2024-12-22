@@ -1,12 +1,15 @@
-# Welcome to my profile! 💕🌸
+<h1 align="center"><b>Hi , I'm Lucía Álvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- My name is Lucía.
-- Im 17 years old
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+- I'm from Spain.
+- I'm 17 years old
 - Pronouns: She/Her
 
 <img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
 
-## About me! 🌸
 
 Junior Developer, eager to learn more every day and determined to achieve something great in the future as a Web Developer.
 I recently finished the first year of the Intermediate VET MSN and I am currently in the second year enjoying the experience of learning and growing.
