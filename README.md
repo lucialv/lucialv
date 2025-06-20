@@ -17,17 +17,13 @@ I recently finished the first year of the Intermediate VET MSN and I am currentl
 ![image](mdimg.png)
 
 #### Some stats!
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=lucialv&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=lucialv&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucialv&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="lucialv's Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucialv&theme=dracula&hide_border=true" alt="lucialv's Streak" />
+
+</div>
 
 > Provided by [`GitHub Readme Stats`]
 
