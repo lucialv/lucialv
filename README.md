@@ -1,14 +1,15 @@
-<h1 align="center"><b>Hi , I'm Lucía Álvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Lucía Álvarez </b><img src="https://cdn.lucialv.com/dance.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=500px alt="gift" src="https://cdn.lucialv.com/gift.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+&nbsp;***About me*** <img src="https://cdn.lucialv.com/peek.webp" width="30px">
 
 - I'm from Spain.
 - I'm 18 years old
 - Pronouns: She/Her
 
-<img src="https://komarev.com/ghpvc/?username=lucialv" alt="lucialv" />
+<img src="https://komarev.com/ghpvc/?username=lucialv&color=ff69b4" alt="lucialv" />
+<a href="https://wakatime.com/@3adee27e-757f-4c75-8130-05277ccae711"><img src="https://wakatime.com/badge/user/3adee27e-757f-4c75-8130-05277ccae711.svg?color=ff69b4" alt="Total time coded since May 20 2023" /></a>
 
 #### Some stats!
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
