@@ -12,7 +12,7 @@
 &nbsp;**_About me_** <img src="https://cdn.lucialv.com/peek.webp" width="30px">
 
 - I'm from Spain.
-- I'm 18 years old
+- I'm 19 years old
 - Pronouns: She/Her
 
 <img src="https://komarev.com/ghpvc/?username=lucialv&color=ff69b4" alt="lucialv" />
